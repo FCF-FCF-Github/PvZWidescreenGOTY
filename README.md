@@ -1,5 +1,5 @@
 # an edit of PvZWidescreen which makes it compatible with GOTY version
-Widescreen mod for Plants vs Zombies
+Widescreen mod for Plants vs Zombies (NOT WORKING)
 
 Everything is wide and centered
 
