@@ -8,3 +8,5 @@ Everything is wide and centered
 ![SurvivalDay](/screenshots/SurvivalDay.png)
 
 ![ZenGarden](/screenshots/ZenGarden.png)
+
+original by HenryJK
